@@ -16,6 +16,8 @@ https://github.com/jaytoone/Nuggi
 
 * Make_model_Gogi.ipynb : 라벨링 된 데이터를 학습하여 익힘을 판단하는 모델을 만드는 파일
 
+<img src="C:\Users\Lenovo\PycharmProjects\Project_GogiMaster\cnn_gogi.png" style="zoom:150%;" />
+
 
 
 ## Android
